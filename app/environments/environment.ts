@@ -1,0 +1,1 @@
+export const GlobalEnv = {"GA_TRACKING_ID":"UA-127045093-2","VERSION":"0.2.0"};
